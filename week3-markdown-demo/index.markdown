@@ -42,3 +42,38 @@ This is a link to [my portfolio](https://www.google.com).
 
 ![My personal logo](iconLogo.png)
 
+## Code
+
+You can add in-line using single tics.
+
+Creata a variable named `var test = 1`.
+
+Or you can use three tics for a block of code:
+
+```javascript
+var test = 1;
+if(test == 1) 
+{
+    console.log("Hello World!");
+}
+```
+
+## Tables
+
+Here is a list of language in a table:
+
+| Language | Semester | Front or Back |
+| -------- | -------- | ------------- |
+| HTML     | 1        | Front         |
+| PHP      | 2        | Back          |
+
+## Commenting
+
+<!--HTML comments will work-->
+
+## Notes and Warnings
+
+>This is a block quote.
+
+>[!WARNING]
+>This is a warning.
