@@ -1,0 +1,21 @@
+#slideshow{
+    position: relative;
+    height: 500px;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+.slide{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.slide:first-child{
+    display:block ;
+}
+
+.nav{
+    position: relative;
+}
